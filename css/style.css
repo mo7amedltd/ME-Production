@@ -926,3 +926,9 @@ header .links .logo{
       top: 1050px;
     }
 }
+
+@media (min-width: 980px) and (min-height: 1899px) {
+    .videos-arrow {
+      top: 1000px;
+    }
+}
