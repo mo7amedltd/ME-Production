@@ -917,3 +917,12 @@ header .links .logo{
       display: none;
     }
   }
+  
+@media (min-width: 1089px) and (min-height: 2111px) {
+    .videos-strip-title1 {
+        margin-top: -2078px;
+    }
+    .videos-arrow {
+      top: 1050px;
+    }
+}
